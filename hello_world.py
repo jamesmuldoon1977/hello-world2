@@ -1,5 +1,8 @@
-print('hello world')
 
 def bar():
-print('local edit')
+	print('local edit')
+
+
+def foo():
+  print('hello world')
 
